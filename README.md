@@ -17,7 +17,7 @@ This is a simple, responsive calculator built using HTML, CSS, and JavaScript. I
 - JavaScript
 
 ## Screenshot
-![Calculator Screenshot](Screenshort/Calculator in js.png)
+![Calculator Screenshot](https://github.com/sonalisingh30/Calculator-in-js/blob/main/Screenshort/Calculator%20in%20js.png)
 
 ## Usage
 
