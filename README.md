@@ -30,6 +30,6 @@ You can check out the live demo of the calculator [here](https://sonali-calculat
 To use this calculator, clone the repository and open the `index.html` file in your browser.
 
 ```bash
-git clone https://github.com/yourusername/calculator.git
+git clone https://github.com/sonalisingh30/calculator.git
 cd calculator
 open index.html
